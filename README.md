@@ -1,6 +1,9 @@
 # Visual Product Matcher
 
 A modern web application that helps users find visually similar products using AI-powered image search. Built with Next.js, MongoDB, and Framer Motion.
+## Deployment and GitHub
+Live Link:https://product-matcher.vercel.app/
+GitHub Link:https://github.com/pritee-dev2003/VPM
 
 ## 🚀 Features
 
